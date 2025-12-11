@@ -1,5 +1,5 @@
 homepage: "https://www.jobster.com"
 documentation: "https://thisisdash.notion.site/Jobster-GTM-template-2c60ff83e3da800684eae2b12a0c4242"
 versions:
-  - sha: b724153c0cff07d5ddc4b3d808d9456602a9805b
+  - sha: f8f89548ec2a1b27e60a58f2933eaacaa01153a0
     changeNotes: Initial release.
